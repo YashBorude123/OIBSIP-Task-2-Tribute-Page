@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(167, 199, 228);
+    display: flex;
+    justify-content: center;
+}
+main{
+    width: 80vw;
+}
+.pop{
+    margin-top: 20px;
+}
+.quote{
+    color: aliceblue;
+    font-size: 2rem;
+    font-family: cursive;
+}
+.row-b, .row{
+    display: flex;
+}
+.row-b{
+    background-color: black;
+}
+.row{
+    background-color: #353941;
+}
+.tit{
+    margin-left: 10px;
+}
+h1{
+    padding-left:10px;
+    font-size: 2.5rem;
+    color: bisque;
+}
+.data{
+    color: azure;
+    margin-top: 90px;
+    font-size: 22px;
+    font-family: system-ui;
+}
+.points{
+    color: azure;
+    font-size: 22px;
+    margin-left: 10px;
+    font-family: system-ui;
+}
+.v{
+    display: flex;
+    flex-direction:column;
+}
+.vid{
+    width: 80vw;
+    height: 440px;
+}
+video{
+    width: 80vw;
+    height: 440px;
+}
+h3{
+    color: aliceblue;
+    font-size: 18px;
+    margin-left: 20px;
+}
+/* .col h1{
+    padding-left:10px;
+} */
